@@ -31,4 +31,4 @@ function arrToStr(arr) {
   return res.join("");
 }
 
-console.log(arrToStr(["a", "b", "c", "d", "e", "f"]));
+console.log(arrToStr(["a", "b", "c", "g", "i","d", "e", "f"]));
